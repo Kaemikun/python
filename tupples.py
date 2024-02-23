@@ -7,3 +7,4 @@ a = "i am "
 b = ["the best"]
 c = tuple([a] +(b))
 print(c)
+#hello me kaemi changing this nd committin it on 23-02-2024 at chitkara
